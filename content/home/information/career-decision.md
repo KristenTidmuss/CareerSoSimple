@@ -1,5 +1,6 @@
 +++
 title = "Career Decision"
+date = "2021-06-21"
 +++
 
 The fact of the matter is, without fundamental personal knowledge of facts on work and education, the relationship between a student and a career development practitioner is the same as that of an illiterate congregant and a highly educated priest in the middle ages, the former takes the later advice, information, guidance or sermon as instructions and defeat the whole purpose of independent career decision, you cannot afford to be an illiterate congregant!
@@ -167,3 +168,27 @@ For anything you are not taught in the classroom, offset by doing it yourself as
 Besides, self- taught knowledge is what differentiates an individual from others, as the prescriptive formal education is largely homogeneous, that is, we all study the same or similar courses, attend the same or similar universities, read the same or similar books, attend the same or similar lectures and sometimes even taught by the same teachers that have never bothered to change their outdated teaching materials since they started teaching.
 >#### True Story:
 >Some years ago when the creator of CAREERSOSIMPLE was in primary and secondary phases of education, there were two formats of learning namely class reader and class library he was introduced to, as the names suggest class reader has to do with teacher guided learning based on curriculum and syllabuses in a classroom that is a known fact it has intensity of focus problem - every student has to concentrate on subjects to make up the required grades and class library that has to do with own choice where he was encouraged to choose and read about as many subjects and topics outside the classroom through books, magazines, newspapers, journals and other sources as part of self-development and make it a habit, he encourages you to do the same as it turned him into a confident person that is capable of holding a conversation on topics unrelated to his profession and ultimately at ease in both social and professional situations to-date.
+
+Learn about capitalism, cultural awareness, events that shaped the world and Europe below and you will see everything in a different light.
+- [Capitalism](https://www.econlib.org/library/Enc/bios/Schumpeter.html)
+- [Cultural Awareness](https://www.macmillanenglish.com/blog-resources/resources/article/cultural-awareness-1)
+- [Bretton Woods 1944](http://news.bbc.co.uk/1/hi/business/7725157.stm)
+- [Treary of Rome 1957](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=LEGISSUM%3Axy0023)
+
+Use the links below to learn about the wider world at large.
+- [World Factbook](https://www.cia.gov/library/publications/the-world-factbook/)
+- [World Atlas](https://www.worldatlas.com/countries)
+
+___
+# Career Choices
+Every other careers information or careers and employability website content developer, career adviser, coach or guidance counsellor that is unquestioningly following dominant career development theories and models to create respective CEIAG intervention programmes will suggest that, when it comes to choosing a career, all that you have to do is to get to know yourself, that is, to get to know your personality, strength, values and skills and there it is, you can figure out what jobs will interest you in the future and choose accordingly; Well this 'Know Yourself' suggestion suffers three problems: it is False; it is Misleading; and it is Limited;
+
+- It is false because 'We do not know ourselves nearly as well as we think we do', ask any psychologist, meaning you cannot precisely determine your personality or strength by ticking boxes on a checklist;
+- Misleading because 'perspective changes everything', in the real world of work, there is always conflict between an employee's values and employers - enterprises that are legal (permitted to exist by law) not righteous (morally correct) entities! You have to look at things from an employer's perspective and partially or wholly compromise your values, it is the case of 'serve the infidel and gain your objective!' - Useful regular job and pay.
+- Limited because, it is about your skills at present, the comfort zone and the 'know your place' - stick to your narrow, fixed and over generalized attitude, beliefs, feelings, ideas or opinions of what job you think is appropriate for you or what job other people think you should pursue in the future or where you do think is your place in the world of work and education system.
+
+and thus owing to the real facts explained above and throughout CAREERSOSIMPLE offer to differ and instead advise you to let others be the judges of who you really are, be flexible and open-minded, explore as many professions as possible, then choose one profession based on expected universal real rewards such as, salary and fringe benefits, security, promotion opportunities, working conditions and environment along which a career - a job with opportunities for progress in relation to greater responsibility and earnings is defined rather than personal rewards that have to do with your mind and feelings, such as, happiness, satisfaction, gratification, enjoyment, appreciation, opportunity to utilize one's abilities, sense of challenge and achievement, recognition and so forth that are nothing more than pleasant extra things, bearing in mind the time it will take to train and changes in the career you have chosen, where given the information you have read about work and education above, it should be a child's play. To explore professions and choose a career for real, use the following link [job profiles](https://nationalcareers.service.gov.uk/explore-careers)
+If you are at university or have already graduated and unsure of which way to go explore more by using this link a [what can your degree do?](https://www.prospects.ac.uk/careers-advice/what-can-i-do-with-my-degree)
+
+>#### TIP:
+>**'Choosing a career is one thing, ending up doing it is another'**. Success is hinged on preparation. To have a good idea of what preparation involves, read [how to get a job](/home/information/how-to-get-a-job/)
