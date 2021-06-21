@@ -1,5 +1,6 @@
 +++
 title = "How To Start A Business"
+date = "2021-06-21"
 +++
 
 As a student, you are young and inexperienced, unlike the third age (50-65) whose start-up enterprises tend to reflect their experiences in particular industries, your idea will most likely be fresh and new that can seem non-starter to most people.
