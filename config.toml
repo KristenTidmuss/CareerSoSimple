@@ -20,9 +20,9 @@ theme = "hugo-initio"
 
     showSubheader = true
     showServices = true
-    showRecentWorks = true
-    showDownloads = true
-    showClients = true
+    showRecentWorks = false
+    showDownloads = false
+    showClients = false
 
     showFooterContact = false
     showFooterFollowMe = true
