@@ -1,57 +1,65 @@
 +++
 title = "Business Information"
+date = "2021-06-21"
 +++
 
-Lorem markdownum fortuna calido Nereaque *exarsit* oculos Veneri pariter teque.
-Cupido attonitos decebat ducunt concutiens aevo. Procorum fugit inque ne medias
-te eundi.
+Get into the habit of reading published business information regularly; it will enable you to be conversant with the main developments taking place in the world of business.
+NOTE: Some of the sources in the compiled list below cover more than one category of business information.
 <!--more-->
-- Capuloque neque timidissime
-- Sit telorum augurium passim astris truncaque superat
-- Nec purasque inmanis ferro
-- Ut velut apicemque senectus quoque caput primus
-- Beati timidum rapax
-- Procne orbus adspexit crimen vultus violenta dedit
+# Business News and Insights
+Business news is the type of business information that covers latest daily topics related to business and financial sectors.
+Topics include breaking business news, analysis and opinion on top business stories, stock market trends, acquisitions and mergers, changes in leadership of major corporations, banking, economic news, international business headlines and so forth.
 
-## Indicet sine tenuerunt honore portasque voces Acheloe
+The following is a list of sources:
+- [The Economist](https://www.economist.com/business/)
+- [Reuters](https://uk.reuters.com/business)
+- [Bloomberg](http://www.bloomberg.com/)
+- [BBC](http://www.bbc.co.uk/news/business/)
+- [The Guardian](http://www.guardian.co.uk/business)
+- [The Independent](http://www.independent.co.uk/news/business/news/)
+- [CNN](https://edition.cnn.com/business)
 
-Ego avidos plangor quoque profatur silvas contendere erat, prolemque temeraria
-pietas indignantibus pede auxiliaribus ratos demittitur ingenio. Adunci tecum,
-est equidem illud quodcumque! Ab et illo iuvenco auctor tanto est movimus
-vident, moenia fallis, votum.
+# Financial and Credit Information
+Financial information has to do with monetary transcations - accounting reports, operating and capital budgets, working capital reports, cash flow forecasts from it you can derive credit risks.
+Credit information comprise of payment processing and validation, credit risk management, credit rating, hedge funds evaluations, corporate fraud prevention.
 
-## Iacebat facies
+The following is a list of sources:
+- [Experian](https://www.experian.com/business-services/business-services.html)
+- [Standard & Poor's](https://www.standardandpoors.com/en_EU/web/guest/home)
+- [Fitch Ratings](http://www.fitchratings.com/web/en/dynamic/about-us/about-us.jsp)
+- [Equifax](https://www.equifax.co.uk/business/en_gb)
 
-Aethera **Pactolonque patris** foedusque *precibus* donec, at pariter guttur
-moenibus. *Mediamque quaedam*, sum conditus fors Chironis **praepes matrisque**
-adspiciam sed sedit tollebat dubitate. Postquam et quod, accipiam, forsitan a
-vimine tum adesset coepit quid? Se dempta videret de vade iniecit: haec
-redeuntia mille bimembres.
+# Industry, Country And Economic Analysis Information
+Industry, Country and Economic Analysis Information comprise reviews on economic, political and market factors that influence the way the industry develops. Major factors can include the power wielded by suppliers and buyers, the condition of competitors, and the likelihood of new market entrants.
 
-## Hoc nec morae ferro dominaeque quantum me
+The following is a list of sources:
+- [IHS-Markit](http://www.ihs.com/)
+- [Economist Intelligence Unit (EIU)](http://www.eiu.com/public/)
+- [First Research](http://www.firstresearch.com/Industry-Profiles.aspx)
+- [Orchid](http://www.orchidinfo.co.uk/industry-profiles/)
+- [Oxford Economics](http://www.oxfordeconomics.com/)
+- [OECD](http://www.oecd.org/home/0,3675,en_2649_201185_1_1_1_1_1,00.html/)
 
-Laudibus obest quercus tamen; seque arbor adnuit ipsa adspexerit semidei; ferrum
-illa *magna non in* canibusve quadriiugi? Et totum, nunc uni Iolciacos ferro.
+# IT Research Information
+IT Research Information comprises information on research, development and use of information technology for enhancing the performance of individuals and organizations.
 
-    mail_spyware(floppy_ajax, 31 - reality - troll_suffix_namespace);
-    sla = plug_heuristic.onZebibyteParallel.parity(xhtml_warm -
-            pipeline_keywords * script_core_remote);
-    drivePowerpoint(hardClock * 17);
+The following is a list of sources:
+- [Comscore](http://www.comscore.com/)
+- [Accenture](http://www.accenture.com/us-en/Pages/index.aspx)
+- [Gartner](http://www.gartner.com/technology/home.jsp)
+- [Infotech](http://www.infotech.com/)
 
-## Quinque frigora
+# Market Research Infroamtion
+Market Research Information comprise analysis and interpretation about a market, a product or service to be offered for sale in that market, and about the past, present and potential customers for the product or service.
 
-Ardeat reliquit tradere sacris esset curvarent rursus, pallidus! **Et vultibus
-tenuerunt** Polydore semidei, aliis quae, Pegasus concutio erexit
-[in](http://et.net/) summum de sine.
-
-1. Mihi iuventae
-2. Minos est facienda super contigerant ille nitens
-3. Oblivia prudens
-4. Illius ut caelestibus parte
-5. Demisso silent
-
-Ut ille tuaque, aequora in dari, illa quae anhelatos quamvis ut ante! Conchae
-exemplo concutiens oreada! Territa tunc templisque vices, ornatos Peleusque
-idque. Fore cui, ora Ulixes optas non **vulnus** inque? Aperire corpore lacrimis
-creaverat ipsa utinam et **bene colitur**, discusso et undis impelli si guttae
-gaudia angues.
+The following is a list of sources:
+- [caci](http://www.caci.co.uk/)
+- [kantar](http://www.kantarworldpanel.com/#/Home)
+- [nielsen](http://www.nielsen.com/uk/en/solutions.html)
+- [WPP](http://www.wpp.com/wpp/marketing/marketresearch)
+- [ipsos mori](http://www.ipsos-mori.com/)
+- [mintel](http://www.mintel.com/)
+- [capgemini](https://www.capgemini.com/gb-en/research/)
+- [forrester](https://go.forrester.com/research/)
+- [euromonitor](https://www.euromonitor.com/)
+- [ibisworld](https://www.ibisworld.com/)
